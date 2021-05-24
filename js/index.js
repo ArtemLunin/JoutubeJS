@@ -39,8 +39,7 @@ const createList = (wrapper, listVideo) => {
         wrapper.append(card);
     });
 };
-const listVideo = ['a', 'b', 'c'];
 
 createList(gloAcademyList, gloAcademy);
 
-// 1 h : 17 min
+// 1 h : 50 min
