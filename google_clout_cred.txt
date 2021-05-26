@@ -1,4 +1,0 @@
-OAuth client ID:
-104995295672-re815ebsfj2cq3geke2u1g2uh885nbq2.apps.googleusercontent.com
-OAuth client Secret:
-na81AzsLuhFa8fYmHfpNPwmn
