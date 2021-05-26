@@ -1,7 +1,7 @@
 const gloAcademyList = document.querySelector('.glo-academy-list');
+const trendingList = document.querySelector('.trending-list');
 
 const createCard = (dataVideo) => {
-    // console.log(dataVideo);
     
     const card = document.createElement('div');
     card.classList.add('video-card');
@@ -42,4 +42,4 @@ const createList = (wrapper, listVideo) => {
 
 createList(gloAcademyList, gloAcademy);
 
-// 1 h : 50 min
+// 2 h 00  min - google cloud platform
