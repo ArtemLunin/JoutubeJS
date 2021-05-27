@@ -1,5 +1,6 @@
 const gloAcademyList = document.querySelector('.glo-academy-list');
 const trendingList = document.querySelector('.trending-list');
+const musicList = document.querySelector('.music-list');
 
 const createCard = (dataVideo) => {
     
@@ -41,5 +42,7 @@ const createList = (wrapper, listVideo) => {
 };
 
 createList(gloAcademyList, gloAcademy);
+createList(trendingList, trending);
+createList(musicList, music);
 
 // 2 h 00  min - google cloud platform
